@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-cout <<"hi"<< endl;
+cout <<"hi 1"<< endl;
 return 0;
 }
