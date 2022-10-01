@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-cout <<"nams "<< endl;
+cout <<"vanakam"<< endl;
 return 0;
 }
